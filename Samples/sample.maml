@@ -1,0 +1,9 @@
+<!-- This is a MAML Presentation! -->
+
+<window x="0" y="0" width="640" height="640" bg="#ffffffff" scene-switching="true" icon="icon.png">
+  <scene default="true">
+    </rectangle x="0" y="0" width="640" height="32" bg="#32a852">
+    </rectangle x="160" y="160" width="320" height="320" bg="#ff0000">
+    </rectangle x="0" y="608" width="640" height="32" bg="#32a852">
+  </scene>
+</window>
