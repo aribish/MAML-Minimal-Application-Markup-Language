@@ -13,3 +13,5 @@ If you'd like to compile MAML, just use the Makefile included. If you've never u
 
 ## PLEASE READ (3/5/22)
 This repo is getting redone! The file structure and source code is being rewritten. I'm in the middle of looking back at my past projects and realizing their flaws. The program SHOULD work right now, but it kinda sucks ngl.
+
+Expect a new repo name, new file structure, and a new syntax.
